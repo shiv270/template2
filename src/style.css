@@ -36,3 +36,27 @@ li a{
 li a:hover {
     background-color: green;
 } 
+#content {
+    float:left;
+    width:70%;  
+    overflow:auto;
+    padding:1%;
+  }
+  .blue_heading{
+      color: blue;
+  }
+  #main{
+      display:flex;
+      margin-top:0px;
+      margin-bottom:0px;
+      margin-right:0px;
+  }
+  #sidebar{
+      padding-top:0px;
+      float:right;
+      width:29%;
+      background:rgb(216, 213, 213);
+      padding:15px;
+  padding-bottom:20%;
+  margin-right:0px;
+  }
